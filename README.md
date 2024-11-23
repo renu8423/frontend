@@ -76,4 +76,8 @@ Add the following line
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true 
     }
+<<<<<<< HEAD
 ..
+=======
+..
+>>>>>>> 3e65c5a (set Footer page)
